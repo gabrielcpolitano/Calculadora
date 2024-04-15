@@ -1,0 +1,31 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f4f4f4;
+}
+
+.calculator {
+    width: 220px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    padding: 20px;
+}
+
+.keys button {
+    width: 45px;
+    height: 45px;
+    margin: 3px;
+    font-size: 18px;
+}
+
+#display {
+    width: 200px;
+    height: 40px;
+    text-align: right;
+    margin-bottom: 10px;
+    font-size: 18px;
+    padding:5px;
+}
