@@ -8,10 +8,8 @@
 - [Funcionalidades](#funcionalidades)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Captura de Tela](#captura-de-tela)
-- [Como Usar](#como-usar)
 - [Executando Localmente](#executando-localmente)
 - [Contribuições](#contribuições)
-- [Licença](#licença)
 
 ## ⭐ Funcionalidades
 
