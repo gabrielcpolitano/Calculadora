@@ -1,11 +1,6 @@
 
 # Calculadora Simples 🧮
 
-![GitHub last commit](https://img.shields.io/github/last-commit/seu-usuario/seu-repositorio)
-![GitHub top language](https://img.shields.io/github/languages/top/seu-usuario/seu-repositorio)
-![GitHub repo size](https://img.shields.io/github/repo-size/seu-usuario/seu-repositorio)
-![License](https://img.shields.io/badge/license-MIT-green)
-
 **Calculadora Simples** é uma aplicação web que permite a você realizar cálculos básicos de forma rápida e fácil diretamente no seu navegador.
 
 ## 📚 Tabela de Conteúdos
@@ -32,11 +27,7 @@
 
 ## 🖼️ Captura de Tela
 
-![Interface da Calculadora](link-para-imagem-da-interface.png) <!-- Substitua com o link real da imagem -->
-
-## 📖 Como Usar
-
-Acesse a calculadora diretamente pelo [este link](link-para-o-seu-projeto) ou abra localmente seguindo as instruções abaixo.
+![Interface da Calculadora](https://raw.githubusercontent.com/gabrielcpolitano/Calculadora/main/calculadora.png) <!-- Substitua com o link real da imagem -->
 
 ## 🏠 Executando Localmente
 
@@ -58,7 +49,3 @@ Contribuições são muito bem-vindas! Se você tem melhorias ou correções, po
 3. Commit suas alterações (`git commit -m 'Add some AmazingFeature'`)
 4. Push para a branch (`git push origin feature/AmazingFeature`)
 5. Abra um Pull Request
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
