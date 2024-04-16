@@ -47,3 +47,15 @@ Contribuições são muito bem-vindas! Se você tem melhorias ou correções, po
 3. Commit suas alterações (`git commit -m 'Add some AmazingFeature'`)
 4. Push para a branch (`git push origin feature/AmazingFeature`)
 5. Abra um Pull Request
+
+## 📬 Contato
+
+Para colaborações ou perguntas, sinta-se à vontade para me contatar:
+
+- **📧 Email:** [gabriel.cpolitano@gmail.com](mailto:gabriel.cpolitano@gmail.com)
+- **💼 LinkedIn:** [Visite meu perfil](https://www.linkedin.com/in/gabriel-correia-politano-a30335302/)
+- **📱 WhatsApp:** [Mande uma mensagem](https://wa.me/17996490503)
+
+
+## 
+Feito com ❤️ por [Gabriel Politano](https://github.com/gabrielcpolitano)
