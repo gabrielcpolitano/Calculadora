@@ -1,0 +1,53 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f4f4f4; /* Mantém a cor de fundo suave */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Fonte mais moderna e legível */
+}
+
+.calculator {
+    width: 260px; /* Largura ajustada para melhor proporção */
+    background: #ffffff; /* Fundo branco puro */
+    border-radius: 12px; /* Bordas mais arredondadas */
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); /* Sombra mais suave e mais profunda para um efeito 3D sutil */
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Centraliza os elementos internos horizontalmente */
+}
+
+.keys {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /* Cria uma grade para os botões */
+    gap: 19px; /* Espaço entre os botões */
+}
+
+.keys button {
+    width: 50px; /* Botões ocupam todo o espaço disponível */
+    height: 45px; /* Altura fixa para todos os botões */
+    font-size: 18px; /* Tamanho da fonte para melhor leitura */
+    background-color: #e0e1e2; /* Cor de fundo para os botões */
+    border: none; /* Remove bordas */
+    border-radius: 8px; /* Bordas arredondadas para os botões */
+    transition: background-color 0.3s; /* Transição suave para mudança de cor */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Sombra sutil para os botões */
+}
+
+.keys button:hover {
+    background-color: #d1d3d4; /* Muda a cor do fundo ao passar o mouse */
+}
+
+#display {
+    width: calc(100% - 10px); /* Ajusta a largura considerando o padding */
+    height: 40px;
+    text-align: right;
+    margin-bottom: 20px; /* Mais espaço abaixo do display */
+    font-size: 22px; /* Aumenta o tamanho da fonte do display */
+    padding: 5px;
+    background-color: #f9f9f9; /* Cor de fundo suave para o display */
+    border-radius: 8px; /* Bordas arredondadas para o display */
+    box-shadow: inset 0 2px 5px rgba(0, 0, 0, 0.05); /* Sombra interna sutil */
+}
+
