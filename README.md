@@ -24,9 +24,9 @@
 - `CSS`
 - `JavaScript`
 
-## 🖼️ Captura de Tela
+## 📲 Interface
 
-![Interface da Calculadora](https://raw.githubusercontent.com/gabrielcpolitano/Calculadora/main/calculadora.png) <!-- Substitua com o link real da imagem -->
+<img src="https://raw.githubusercontent.com/gabrielcpolitano/Calculadora/main/calculadora.png" width="447" height="461">
 
 ## 🏠 Executando Localmente
 
